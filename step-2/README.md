@@ -33,3 +33,5 @@
 Кнопкам прокрутки слайдов зададим класс "slide-control".
 
 ![классы в разделе популярных букетов](./../img/02-6.jpg)
+
+Раздел каталога. Списку присваиваем класс "catalog-cards-list", элементам - "catalog-card", изображению - "catalog-card-image", заголовку - "catalog-card-title", тексту - "catalog-card-text".
