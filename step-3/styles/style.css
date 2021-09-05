@@ -1,0 +1,125 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  color: #ae7c78;
+}
+
+.navigation-list-item a {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  text-decoration: none;
+  color: #ae7c78;
+}
+
+.hero-header {
+  font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 59px;
+}
+
+.btn {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #d89999;
+}
+
+.enumeration-list-item {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.enumeration-list-item h3 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.section-title,
+.catalog-card-title {
+  font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.02em;
+}
+
+.card {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.card-title,
+.card-price {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+}
+
+.catalog-card {
+  background-color: #ae7c78;
+}
+
+.catalog-card a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.catalog-card-text {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.bonus {
+  color: #ffffff;
+  background-color: #ae7c78;
+}
+
+.bonus-title {
+  font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 59px;
+  letter-spacing: 0.02em;
+}
+
+.review,
+.about {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.review cite,
+.about-list dd {
+  font-weight: 500;
+  font-style: normal;
+}
+
+.about-list a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-navigation-list {
+  background-color: #ae7c78;
+}
+
+.footer-navigation-list a {
+  color: #ffffff;
+}
