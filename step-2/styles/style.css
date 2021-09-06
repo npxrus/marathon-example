@@ -13,6 +13,11 @@ body {
   color: #ae7c78;
 }
 
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .navigation-list-item a {
   font-size: 16px;
   font-style: normal;
@@ -116,7 +121,7 @@ body {
   color: inherit;
 }
 
-.footer-navigation-list {
+footer {
   background-color: #ae7c78;
 }
 
